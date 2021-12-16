@@ -1,4 +1,4 @@
-# Example Course
+# New Capability Overview: Time Series Forecasting in AutoML
 
 ## Release Notes
 This course has been tested on AWS, MSA and GCP.<br/>
@@ -10,20 +10,10 @@ This course has been tested on AWS, MSA and GCP.<br/>
 |   MSA | 9.1 LTS Photon |  Single Node | Standard_DS3_v2 | 4 cores   |
 |   GCP | 9.1 LTS Photon |  Single Node | n1-standard-4   | 4 cores   |
 
-## Student Resources
-* Student-Facing Repo: https://github.com/databricks-academy/example-course
-* Student DBC: See the [Latest releases](https://github.com/databricks-academy/example-course/releases/latest) section of the student-facing repo
-* Student Slides (PDF): See the [Latest releases](https://github.com/databricks-academy/example-course/releases/latest) section of the student-facing repo
 
-## Instructor Resources
-* [Google Slides - Instructor](https://drive.google.com/drive/folders/1HjyhCHRkb5R2w3deFXFKf5i9g6E3VXs7)
 
-## Preparatory Resources
-* T3 Videos - none
 
 ## Additional Resources
-* [Report an issue or review issues for this course](https://github.com/databricks-academy/example-course-source/issues) (GitHub Issues)
+* [Report an issue or review issues for this course](https://github.com/databricks-academy/new-capability-verview-time-series-forecasting-in-AutoML/issues) (GitHub Issues)
 * Test Results - Coming Soon!
 
-## Building this Course
-This process is documented on our wiki under the article [How to publish courses with GitHub](https://databricks.atlassian.net/l/c/VmYvzmNh)
