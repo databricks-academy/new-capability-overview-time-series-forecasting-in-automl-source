@@ -48,7 +48,7 @@ import logging
 # Disable informational messages from fbprophet
 logging.getLogger("py4j").setLevel(logging.WARNING)
  
-summary = databricks.automl.forecast(df, target_col="cases", time_col="date", horizon=30, frequency="d",  primary_metric="mdape")b
+summary = databricks.automl.forecast(df, target_col="cases", time_col="date", horizon=30, frequency="d",  primary_metric="mdape")
 
 # COMMAND ----------
 
